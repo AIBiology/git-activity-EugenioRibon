@@ -3,11 +3,16 @@
 This starter assignment from GitHub will get you started using git and GitHub for our AI in Biology course. We will use GitHub Classrooms throughout the semester for assignments, so getting a solid foundation early on will be important.
 
 ## To Do
+
 1. If you do not already have one, create a GitHub account at [https://github.com/signup](https://github.com/signup)    
 2. Read through this markdown file from GitHub, it has a lot of good information about Git and GitHub.
-3.**Complete the Jupyter Notebook [git_configuration.ipynb](git_configuration.ipynb)** (borrowed from the *Practicum AI* course [Computing for AI](https://practicumai.org/computing_for_ai/README/)), which will get your account configured on HiPerGator. 
+3. Submit the link to your assignment repository in the Canvas assignment.
 
-> **Note:** Everything below here is part of the GitHub learning material.
+### Once we get HiPerGator accounts 
+
+Sometime during the second week of class, you should get a HiPerGator account (or be added to the `bsc4892` group if you already have one). Once that happens, we will walk through setting up Git on HiPerGator using **the Jupyter Notebook [git_configuration.ipynb](git_configuration.ipynb)** (borrowed from the *Practicum AI* course [Computing for AI](https://practicumai.org/computing_for_ai/README/)), which will get your account configured on HiPerGator. 
+
+> **Note:** Everything below here is part of the GitHub learning material. Read through it to gain a general understanding of the basic principles of Git and GitHub. We will cover some of this in class.  
 
 ## 🤓 Course overview and learning outcomes 
 
